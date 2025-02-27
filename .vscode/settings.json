@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Cha\\OneDrive\\Documents\\ADA\\Exercices Individuels\\json-simple-1.1.jar"
+    ]
+}
